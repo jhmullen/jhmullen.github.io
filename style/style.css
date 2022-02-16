@@ -4,6 +4,7 @@ body {
 }
 
 .wrapper {
+  min-width: 490px;
   width: 490px;
   margin: auto;
   padding: 10px;
