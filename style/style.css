@@ -1,7 +1,7 @@
 body {
   font-family:Arial, Helvetica, sans-serif;
   background-color:aliceblue;
-  max-width:490px;
+  max-width:510px;
   margin: 0 auto;
 }
 
@@ -108,7 +108,7 @@ iframe {
   text-align:center;
 }
 
-@media only screen and (max-device-width: 490px) {
+@media only screen and (max-device-width: 510px) {
   body {
     font-size: 12px;
   }
